@@ -1,0 +1,27 @@
+{
+  "name": "7.2.-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier",
+    "eslint": "eslint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xomigrek/7.2.-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xomigrek/7.2.-Node.js/issues"
+  },
+  "homepage": "https://github.com/Xomigrek/7.2.-Node.js#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  },
+  "dependencies": {
+    "prettier": "^2.8.4"
+  }
+}
